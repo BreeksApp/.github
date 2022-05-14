@@ -1,5 +1,7 @@
 # Breeks App
 
+### 📰 Read paper about the app: [Habr [RU]](https://habr.com/ru/post/534032/)
+
 <img align="right" width="200" height="200" src="https://user-images.githubusercontent.com/55200686/148060132-0d0f2f25-6713-4889-ad29-1830aeb5eea4.png">
 
 Breeks is a modular desktop application that provides a handy set of personal development tools:
